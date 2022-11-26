@@ -6,4 +6,10 @@
 python generations.py
 ~~~
 - edits.py : Editing partially erased images.
+~~~
+python edits.py
+~~~
 - variations.py : Generating an Image Similar to the Specified Image.
+~~~
+python variations.py
+~~~
